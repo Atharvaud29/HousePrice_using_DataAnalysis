@@ -26,3 +26,34 @@ This project focuses on:
 - **Seaborn**
 - **Scikit-Learn**
 
+## **1. Data Exploration :**
+
+- **Train Data Histrogram**
+
+  ![image](https://github.com/user-attachments/assets/d99df1df-cba1-469f-b2f4-767c44b05e17)
+
+- **HeatMap**
+
+  ![image](https://github.com/user-attachments/assets/bba9d43a-874b-49d0-ae8e-4f4defcbe335)
+
+## **2. Data Processing : **
+
+- **Histrogram of Train data**
+
+  ![image](https://github.com/user-attachments/assets/59f1a450-cb9f-4647-bd1a-45a9f41bcdc8)
+
+- **HeatMap**
+
+  ![image](https://github.com/user-attachments/assets/3dfb4378-0b70-40b4-bfff-c704b4f5fcf9)
+
+- **scatterplot**
+
+  ![image](https://github.com/user-attachments/assets/7814bdda-e82d-47f8-8941-812aeabf60ab)
+
+## **3. Feature Engineering : **
+
+- **Training data HeatMap**
+
+  ![image](https://github.com/user-attachments/assets/8f357f2f-ff73-43df-8e95-505b58e277ef)
+
+
